@@ -1,8 +1,8 @@
 Meta-Analysis Based on Nonconvex Regularization
 
 *****************************************************************************************************************
-* author: Zhang Hui  											*
-* email:    zhanghui.nwu@foxmail.com
+* Author: Zhang Hui  											*
+* Email:    zhanghui.nwu@foxmail.com
 * Last revision: 01-March-2019                                  								*
 *****************************************************************************************************************
 * RECOMMENDATIONS:                                   	*
